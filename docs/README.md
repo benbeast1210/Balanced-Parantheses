@@ -10,4 +10,4 @@ From SoloLearn:
 >Also, after checking all the parentheses, we need to check the stack to be empty -- if it's not empty, then the parentheses are not balanced.   Implement the balanced() function to return True if the parentheses in the given expression are balanced, and False if not.
 >
 >
->This project was completed for: PYTHON CORE certificate from SoloLearn, in Summer of 2021 and is being added to GitHub in May 2022.
+>This project was completed for: PYTHON DATA STRUCTURES certificate from SoloLearn, in Summer of 2021 and is being added to GitHub in May 2022.
